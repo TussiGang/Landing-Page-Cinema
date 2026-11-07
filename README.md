@@ -7,4 +7,3 @@ Repositorio en GitHub con Landing Page (página de aterrizaje)
 - Jeckson
 - Kevin
 
-Proyecto colaborativo desarrollado por Juanfer, Jeckson y Kevin.
